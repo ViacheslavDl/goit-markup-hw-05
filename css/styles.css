@@ -40,14 +40,6 @@ a {
   margin: 0 auto;
 }
 
-.page-header,
-.order,
-.team,
-.page-footer {
-  max-width: 1440px;
-  margin: 0 auto;
-}
-
 /* header */
 
 .page-header {
@@ -159,6 +151,8 @@ a {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .order-container {
